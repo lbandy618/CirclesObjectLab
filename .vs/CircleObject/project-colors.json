@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b032ed4-b3e1-4418-84fd-3ad0cf7d476a": {
+      "ProjectGuid": "0b032ed4-b3e1-4418-84fd-3ad0cf7d476a",
+      "DisplayName": "CircleObject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
